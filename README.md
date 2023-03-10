@@ -1,8 +1,9 @@
-# [NOMBRE DEL PROYECTO]
+# Tarea programada 1
 ## Integrantes:
-### [Carné] [Nombre]
-
-### Estado del proyecto: Escala de 1 a 5, 1 siendo completo y 5 deplorable
-### Plataforma utilizada (Netbeans o IntelliJ)
+### 2018231939 Daniel Rojas Ugalde
+### 2019033450 Armando Andres Arce Vargas
+### 2019015926 Ailer Josue Alvarado Aguero 
+### Estado del proyecto: 1
+### Plataforma utilizada Netbeans
 ### Enlace del video: 
 Recordar que el video debe ser **público** y con **sonido** para ser visto y escuchado por el profesor
