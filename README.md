@@ -5,5 +5,5 @@
 ### 2019015926 Ailer Josue Alvarado Aguero 
 ### Estado del proyecto: 1
 ### Plataforma utilizada Netbeans
-### Enlace del video: 
-Recordar que el video debe ser **público** y con **sonido** para ser visto y escuchado por el profesor
+### Enlace del video: https://youtu.be/qPP_NLnFcik
+
